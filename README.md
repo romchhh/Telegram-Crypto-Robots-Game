@@ -7,4 +7,4 @@ In multiplayer mode you can meet with a random opponent or challenge your friend
 And in single-player mode there are 3 maps: “Abandoned factory”, where you can restore your health, “Desert” - where with some chance you can meet a hostile robot, defeating which you will get tikes to pump your robot.
 And “Island” where the enemy will be very strong, but there you can find priceless Teiks, which will make your robot - invulnerable terminator!
 
-Translated with DeepL.com (free version)
+
